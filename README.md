@@ -16,14 +16,13 @@ This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook.
     
 
 ## Progress Pictures 
-
 ![one](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/SportStore%201.jpg)
 
-
+### Seed Data
 ![two](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/SportStore2.jpg)
 
-
+### Page Links
 ![three](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/SportStore%20ProductPage%202.jpg)
 
-
+### Add Bootstrap
 ![final](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/SportStore%20Final.jpg)
