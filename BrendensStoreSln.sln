@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products", "Products\Products.csproj", "{2243F02E-F5F0-4399-B1FD-FAAFA18B490C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products", "Products\Products.csproj", "{2243F02E-F5F0-4399-B1FD-FAAFA18B490C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Tests", "Products.Tests\Products.Tests.csproj", "{C952F123-F204-4D24-91F9-C416D2CD6F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Tests", "Products.Tests\Products.Tests.csproj", "{C952F123-F204-4D24-91F9-C416D2CD6F24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2243F02E-F5F0-4399-B1FD-FAAFA18B490C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -44,5 +41,11 @@ Global
 		{C952F123-F204-4D24-91F9-C416D2CD6F24}.Release|x64.Build.0 = Release|Any CPU
 		{C952F123-F204-4D24-91F9-C416D2CD6F24}.Release|x86.ActiveCfg = Release|Any CPU
 		{C952F123-F204-4D24-91F9-C416D2CD6F24}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38109EE9-26FC-4AFB-ADDF-F86FD96ADCB5}
 	EndGlobalSection
 EndGlobal
