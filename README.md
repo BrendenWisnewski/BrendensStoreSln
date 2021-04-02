@@ -35,3 +35,6 @@ This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook.
 
 ### The Cart
 ![Cart](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/Lab%202A%20Third%20Screenshot.jpg)
+
+### Tests
+![test](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/Passing%20tests.jpg)
