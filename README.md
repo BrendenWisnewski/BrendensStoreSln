@@ -50,3 +50,18 @@ This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook.
 
 ### Checkout Complete
 ![yay](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/Lab%203A%20screen%203.jpg)
+
+
+## Blazor Pages
+
+### Initial Page
+![start](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/lab%204a%20first.jpg)
+
+### Display Products
+![prodcuts](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/lab%204a%20second.jpg)
+
+### Details of Each Product
+![deets](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/lab%204a%20third.jpg)
+
+### Adding in the Delete Button
+1[delete](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/lab%204a%20fourth.jpg)
