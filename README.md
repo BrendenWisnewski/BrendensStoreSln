@@ -38,3 +38,15 @@ This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook.
 
 ### Tests
 ![test](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/Passing%20tests.jpg)
+
+
+## Checkout
+
+### Checkout Button
+![checkout](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/Lab%203A%20screen%201.jpg)
+
+### Checkout Screen
+![completed](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/Lab%203A%20screen%202.jpg)
+
+### Checkout Complete
+![yay](https://github.com/BrendenWisnewski/BrendensStoreSln/blob/master/images/Lab%203A%20screen%203.jpg)
