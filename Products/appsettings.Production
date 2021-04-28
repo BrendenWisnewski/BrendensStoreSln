@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "SportsStoreConnection": "Server=(localdb)\\MSSQLLocalDB;Database=BrendensStore;MultipleActiveResultSets=true",
+     "IdentityConnection": "Server=(localdb)\\MSSQLLocalDB;Database=BrendensStore;MultipleActiveResultSets=true"
+
+  }
+  }
